@@ -4,12 +4,14 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer>
+      {/* eslint-disable-next-line */}
       <a href="#" className="footer-logo">
         RYAN TRAFICANTE
       </a>
 
       <ul className="permalinks">
         <li>
+          {/* eslint-disable-next-line */}
           <a href="#">Home</a>
         </li>
         <li>
