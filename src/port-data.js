@@ -1,6 +1,6 @@
 import golf from "./assets/golf-gps.png";
 import music from "./assets/music.png";
-import proj from "./assets/proj-man.png";
+import proj from "./assets/proj-man-2.png";
 import cookie from "./assets/cookies.png";
 
 const data = [
